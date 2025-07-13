@@ -4,8 +4,8 @@ This is the **OrderDemo** project repository.
 
 ## 📦 Description
 A simple demo project for managing order mock data, includes:
-- Order mock data with Email field
-- Scripts to handle order generation
+- CURD Order
+- Generate Invoice, send Email with mock service
 
 ## 🚀 Getting Started
 ```bash
