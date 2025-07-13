@@ -1,0 +1,22 @@
+@import '../../styles/app.scss';
+
+
+:host {
+  .row {
+    margin-bottom: 16px;
+    .wrap-header {
+      padding-bottom: 16px;
+      .page-header {
+        display: inline-block;
+        font-weight: 700;
+        font-size: 24px;
+      }
+      .btn-add-new {
+        background-color: $color-normal;
+      }
+    }
+    .separate-line {
+      border-bottom: 1px #ccc solid;
+    }
+  }
+}

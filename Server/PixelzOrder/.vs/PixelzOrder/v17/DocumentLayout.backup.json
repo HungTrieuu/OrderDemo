@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\service\\productionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\service\\productionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\bo\\pagingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\bo\\pagingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\mockdata\\order.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\mockdata\\order.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\mockdata\\invoice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\mockdata\\invoice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\bo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\bo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\bo\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\bo\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\apicontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\apicontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\bo\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\bo\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\mockdata\\order.json||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\mockdata\\order.json||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|d:\\code\\pixelz\\server\\pixelzorder\\apicontroller\\apicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15367462-A55F-4E73-AF60-905CD49968B1}|APIController\\APIController.csproj|solutionrelative:apicontroller\\apicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "APIController\\Service\\PaymentService.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Service\\PaymentService.cs",
+              "RelativeToolTip": "APIController\\Service\\PaymentService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:45:23.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "order.json",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\mockData\\order.json",
+              "RelativeDocumentMoniker": "APIController\\mockData\\order.json",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\mockData\\order.json",
+              "RelativeToolTip": "APIController\\mockData\\order.json",
+              "ViewState": "AgIAAF4DAAAAAAAAAAAewHYDAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T17:27:57.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "APIController\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "APIController\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAswOsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:37:31.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Service\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "APIController\\Service\\InvoiceService.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Service\\InvoiceService.cs",
+              "RelativeToolTip": "APIController\\Service\\InvoiceService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:59:56.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "APIController\\Controllers\\InvoiceController.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "APIController\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:23:20.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductionService.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Service\\ProductionService.cs",
+              "RelativeDocumentMoniker": "APIController\\Service\\ProductionService.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Service\\ProductionService.cs",
+              "RelativeToolTip": "APIController\\Service\\ProductionService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:14:12.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "APIController\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "APIController\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:14:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagingRequest.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\BO\\PagingRequest.cs",
+              "RelativeDocumentMoniker": "APIController\\BO\\PagingRequest.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\BO\\PagingRequest.cs",
+              "RelativeToolTip": "APIController\\BO\\PagingRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T17:40:31.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\BO\\Invoice.cs",
+              "RelativeDocumentMoniker": "APIController\\BO\\Invoice.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\BO\\Invoice.cs",
+              "RelativeToolTip": "APIController\\BO\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:04:10.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\BO\\Order.cs",
+              "RelativeDocumentMoniker": "APIController\\BO\\Order.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\BO\\Order.cs",
+              "RelativeToolTip": "APIController\\BO\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:11:01.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "invoice.json",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\mockData\\invoice.json",
+              "RelativeDocumentMoniker": "APIController\\mockData\\invoice.json",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\mockData\\invoice.json",
+              "RelativeToolTip": "APIController\\mockData\\invoice.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T07:11:36.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "APIController\\Service\\EmailService.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Service\\EmailService.cs",
+              "RelativeToolTip": "APIController\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:52:34.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "APIController.http",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\APIController.http",
+              "RelativeDocumentMoniker": "APIController\\APIController.http",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\APIController.http",
+              "RelativeToolTip": "APIController\\APIController.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-12T18:00:06.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserInfoController.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Controllers\\UserInfoController.cs",
+              "RelativeDocumentMoniker": "APIController\\Controllers\\UserInfoController.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Controllers\\UserInfoController.cs",
+              "RelativeToolTip": "APIController\\Controllers\\UserInfoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T17:17:22.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIController\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIController\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T17:11:21.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\BO\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "APIController\\BO\\ServiceResult.cs",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\BO\\ServiceResult.cs",
+              "RelativeToolTip": "APIController\\BO\\ServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T17:20:32.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "order.json",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\mockData\\order.json",
+              "RelativeDocumentMoniker": "APIController\\mockData\\order.json",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\mockData\\order.json",
+              "RelativeToolTip": "APIController\\mockData\\order.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T17:27:29.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "APIController.csproj",
+              "DocumentMoniker": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\APIController.csproj",
+              "RelativeDocumentMoniker": "APIController\\APIController.csproj",
+              "ToolTip": "D:\\Code\\Pixelz\\Server\\PixelzOrder\\APIController\\APIController.csproj",
+              "RelativeToolTip": "APIController\\APIController.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-12T17:09:41.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

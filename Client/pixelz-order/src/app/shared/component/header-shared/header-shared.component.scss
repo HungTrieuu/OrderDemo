@@ -1,0 +1,45 @@
+$topnav-background-color: #0095cc;
+:host {
+  .navbar {
+    background-color: $topnav-background-color;
+    height: 42px;
+    .navbar-brand {
+      color: #fff;
+      margin-left: 16px;
+    }
+    .nav-item {
+      &:hover {
+        background-color: rgba(0, 166, 229, 0.54);
+      }
+      > a {
+        color: #fff;
+      }
+    }
+    .text-muted {
+      color: #fff !important;
+    }
+  }
+  .messages {
+    width: 300px;
+    .media {
+      border-bottom: 1px solid #ddd;
+      padding: 5px 10px;
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+    .media-body {
+      h5 {
+        font-size: 13px;
+        font-weight: 600;
+      }
+      .small {
+        margin: 0;
+      }
+      .last {
+        font-size: 12px;
+        margin: 0;
+      }
+    }
+  }
+}

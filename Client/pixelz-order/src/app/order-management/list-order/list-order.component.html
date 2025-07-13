@@ -1,0 +1,30 @@
+<div>
+  <app-page-header
+    [heading]="input"
+    [enableAddAction]="checkAnableAction()"
+    (addAction)="createNewOrder()"
+  ></app-page-header>
+
+  <grid-shared
+    #gridShared
+    (eventDetailAction)="showFormView($event)"
+    (addAction)="createNewOrder()"
+    tableName="Order"
+    [fieldObject]="fieldObject"
+    [customAction]="customAction"
+  >
+    <ng-template #customAction let-data="data">
+      <ng-container>
+        <div>
+          <button [disabled]="getSelectedRow().length === 0" class="btn btn-danger btn-icon-split" (click)="deleteOrder()">
+            <span class="text">Delete</span>
+          </button>
+          <button [disabled]="getSelectedRow().length === 0" class="btn btn btn-primary btn-normal btn-add-new align-self-center btn-icon-split margin-left" (click)="checkoutOrder()">
+            <span class="text">Checkout</span>
+          </button>
+
+        </div>
+      </ng-container>
+    </ng-template>
+  </grid-shared>
+</div>

@@ -1,0 +1,76 @@
+<nav class="sidebar" [ngClass]="{ sidebarPushRight: isActive, collapsed: collapsed }">
+  <div class="list-group">
+
+
+    <a class="list-group-item" href="#homeSubmenu" data-toggle="collapse" aria-expanded="true">
+      <i class="fa fa-fw fa-dashboard"></i>&nbsp;
+      <span>Modules</span>
+    </a>
+    <div class="collapse list-unstyled submenu" id="homeSubmenu">
+      <a
+        routerLink="/order/list"
+        [routerLinkActive]="['router-link-active']"
+        class="list-group-item"
+      >
+        <i class="fa fa-fw fa-dashboard"></i>&nbsp;
+        <span>Order</span>
+      </a>
+
+      <!-- <a
+        routerLink="/product"
+        [routerLinkActive]="['router-link-active']"
+        class="list-group-item"
+      >
+        <i class="fa fa-fw fa-dashboard"></i>&nbsp;
+        <span>Product</span>
+      </a> -->
+      <a
+        routerLink="/invoice"
+        [routerLinkActive]="['router-link-active']"
+        class="list-group-item"
+      >
+        <i class="fa fa-fw fa-dashboard"></i>&nbsp;
+        <span>Invoice</span>
+      </a>
+      <a
+
+        class="list-group-item"
+        (click)="linkToPRoductionService()"
+      >
+        <i class="fa fa-fw fa-bar-chart-o"></i>&nbsp;
+        <span>Production Service</span>
+      </a>
+    </div>
+
+
+    <div class="header-fields">
+      <a (click)="rltAndLtr()" class="list-group-item">
+        <span><i class="fa fa-arrows-h"></i>&nbsp; RTL/LTR</span>
+      </a>
+      <div class="nested-menu">
+        <a class="list-group-item" (click)="addExpandClass('profile')">
+          <span><i class="fa fa-user"></i>&nbsp; {{ setTitle() }}</span>
+        </a>
+        <li class="nested" [class.expand]="showMenu === 'profile'">
+          <ul class="submenu">
+            <li>
+              <a routerLink="/profile" href="javascript:void(0)">
+                <span><i class="fa fa-fw fa-user"></i> Profile</span>
+              </a>
+            </li>
+
+            <li>
+              <a [routerLink]="['/login']" (click)="onLoggedout()">
+                <span><i class="fa fa-fw fa-power-off"></i> Log Out</span>
+              </a>
+            </li>
+          </ul>
+        </li>
+      </div>
+    </div>
+  </div>
+  <div class="toggle-button" [ngClass]="{ collapsed: collapsed }" (click)="toggleCollapsed()">
+    <i class="fa fa-fw fa-angle-double-left"></i>&nbsp;
+    <span>Collapse</span>
+  </div>
+</nav>

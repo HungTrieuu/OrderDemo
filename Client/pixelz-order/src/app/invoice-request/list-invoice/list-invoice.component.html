@@ -1,0 +1,15 @@
+<div>
+  <app-page-header
+    [heading]="input"
+    [enableAddAction]="false"
+  ></app-page-header>
+
+  <grid-shared
+    #gridShared
+    (eventDetailAction)="showFormView($event)"
+    tableName="Invoice"
+    [fieldObject]="fieldObject"
+  >
+
+  </grid-shared>
+</div>

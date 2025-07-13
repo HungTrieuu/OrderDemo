@@ -1,0 +1,23 @@
+::ng-deep {
+  mat-dialog-container {
+    overflow: hidden;
+  }
+}
+:host {
+  .class-wrap {
+    width: 100%;
+    max-height: 300px;
+    overflow: auto;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    .class-infor {
+      height: 32px;
+      line-height: 32px;
+      padding: 0 8px;
+      border: 1px solid #e0e0e0;
+    }
+  }
+  .btn {
+    margin: 4px;
+  }
+}

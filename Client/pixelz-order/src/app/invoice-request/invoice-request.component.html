@@ -1,0 +1,9 @@
+
+
+<header-shared></header-shared>
+<ng-container *ngIf="isLoadBody()">
+  <sidebar-shared (collapsedEvent)="receiveCollapsed($event)"></sidebar-shared>
+  <section class="main-container" [ngClass]="{ collapsed: collapedSideBar }">
+    <router-outlet></router-outlet>
+  </section>
+</ng-container>

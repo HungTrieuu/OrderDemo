@@ -1,0 +1,30 @@
+<!-- <div class="form-group" [formGroup]="parentForm">
+  <label [for]="formControlText">{{ boxLabel }}</label>
+  <span *ngIf="_required" class="required">*</span>
+  <input
+    type="text"
+    class="form-control"
+    [formControlName]="formControlText"
+    [ngClass]="{ 'is-invalid': parentForm.get(formControlText).touched && parentForm.get(formControlText).invalid }"
+  />
+  <div *ngIf="parentForm.get(formControlText).touched && parentForm.get(formControlText).invalid" class="invalid-feedback">
+    <div *ngIf="parentForm.get(formControlText).errors.required">Trường này không được để trống</div>
+    <div *ngIf="parentForm.get(formControlText).errors.email">Địa chỉ Email định dạng sai</div>
+  </div>
+</div> -->
+<mat-form-field class="demo-full-width" [formGroup]="group" *ngIf="group; else elseTemplate">
+
+  <input matInput [formControlName]="field.name ?? ''" [placeholder]="field.label" [type]="field.inputType" [(ngModel)]="field.value" />
+
+  <ng-container *ngFor="let validation of field.validations" ngProjectAs="mat-error">
+    <mat-error *ngIf="group.get(field.name ?? '')?.hasError(validation.name)">{{ validation.message }}</mat-error>
+  </ng-container>
+</mat-form-field>
+
+<ng-template #elseTemplate>
+  <mat-form-field class="demo-full-width">
+
+    <label style="font-weight: 700">{{ boxLabel }}</label>
+    <input matInput [placeholder]="placeholder" [type]="'text'" [disabled]="_disabled" [(ngModel)]="value" />
+  </mat-form-field>
+</ng-template>
