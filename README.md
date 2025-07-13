@@ -26,8 +26,11 @@ $ npm start
 ```
 OrderDemo/
 ├── client/   # Frontend app
-├──── mockData/
 ├── server/   # Backend API
+├──── mockData/
+├──── API/
+├──── Service/
+├──── Model/
 ├── README.md
 ```
 
